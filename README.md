@@ -4,15 +4,15 @@ A Grid-wise Feature Selection and Data Segment Transformer(GFSDSformer) framewor
 
 ## Authors
 1. Chuanjiang Luo,
-	School of Architecture and Civil Engineering, Chengdu University, Chengdu 610106, China
+	School of Architecture and Civil Engineering, Chengdu University, Chengdu 610106, China.
 	Email: luochuanjiang@cdu.edu.cn
 
 2. Lilu Cui,
-	School of Architecture and Civil Engineering, Chengdu University, Chengdu 610106, China
+	School of Architecture and Civil Engineering, Chengdu University, Chengdu 610106, China.
 	Email: cuililu@cdu.edu.cn
 
 3. Bo Zhong,
-	School of Geodesy and Geomatics, Wuhan University, Wuhan 430079, China
+	School of Geodesy and Geomatics, Wuhan University, Wuhan 430079, China.
 	Email: bzhong@sgg.whu.edu.cn
 	
 ## Key Features
