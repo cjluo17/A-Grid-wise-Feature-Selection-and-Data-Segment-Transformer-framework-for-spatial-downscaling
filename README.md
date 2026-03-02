@@ -3,15 +3,15 @@
 A Grid-wise Feature Selection and Data Segment Transformer(GFSDSformer) framework for spatial downscaling of terrestrial water storage change data.
 
 ## Authors
-1. Chuanjiang Luo
+1. Chuanjiang Luo,
 	School of Architecture and Civil Engineering, Chengdu University, Chengdu 610106, China
 	Email: luochuanjiang@cdu.edu.cn
 
-2. Lilu Cui
+2. Lilu Cui,
 	School of Architecture and Civil Engineering, Chengdu University, Chengdu 610106, China
 	Email: cuililu@cdu.edu.cn
 
-3. Bo Zhong
+3. Bo Zhong,
 	School of Geodesy and Geomatics, Wuhan University, Wuhan 430079, China
 	Email: bzhong@sgg.whu.edu.cn
 	
