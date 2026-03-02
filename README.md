@@ -42,7 +42,7 @@ CorrectedHigh = ResidualCorrect( ...
 | Storage        | 50 GB HDD            | 1024 GB NVMe SSD     |
 
 ### Software
-- MATLAB R2021b or later
+- MATLAB R2022a or later
 - Deep Learning Toolbox
 - Statistics and Machine Learning Toolbox
 - Parallel Computing Toolbox
